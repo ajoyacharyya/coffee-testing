@@ -4,4 +4,4 @@ cd ${0%/*}/coffee-shop
 
 mvn clean package
 
-docker build -t coffee-shop .
+docker build -t ajoyacharyya/coffee-shop .
